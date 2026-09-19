@@ -14,3 +14,5 @@ function showName(){
 showName();
 
 console.log("Latest Changes")
+
+console.log("fixed some bugs")
